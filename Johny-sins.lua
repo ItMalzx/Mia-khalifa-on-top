@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ItMalzx/Itm-orbit-aura/refs/heads/main/obfuscated.lua.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ItMalzx/Itm-orbital-auras/refs/heads/main/obfuscated.lua.txt"))()
